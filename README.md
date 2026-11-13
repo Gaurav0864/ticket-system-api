@@ -298,7 +298,4 @@ make lint      # quick syntax check
 make clean     # remove caches and the SQLite database
 ```
 
-## License
-
-MIT - see [LICENSE](LICENSE).
 
